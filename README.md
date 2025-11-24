@@ -1,6 +1,4 @@
-<!-- README DARK COM CARDS ANIMADOS -->
-
-# 🌑 Joao Antonio Amaral Blanco
+#   Joao Antonio Amaral Blanco
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F7F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+Evolução;Focado+em+Python+e+Java;Estudante+de+Ciência+da+Computação" />
@@ -8,91 +6,75 @@
 
 ---
 
-# 🪄 Cards Animados (Dark)
+## 📘 Informações
 
-<style>
-.card {
-  background: #0d1117;
-  border: 1px solid #30363d;
-  border-radius: 15px;
-  padding: 20px;
-  width: 260px;
-  transition: transform 0.3s, box-shadow 0.3s;
-}
-.card:hover {
-  transform: scale(1.06);
-  box-shadow: 0px 0px 18px rgba(0, 217, 255, 0.4);
-}
-.card-title {
-  font-size: 22px;
-  font-weight: bold;
-  color: #00eaff;
-}
-.card-text {
-  font-size: 15px;
-  color: #c9d1d9;
-}
-.container-cards {
-  display: flex;
-  gap: 20px;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-</style>
-
-<div class="container-cards">
-
-  <div class="card">
-    <div class="card-title">📌 Sobre mim</div>
-    <div class="card-text">
-      Estudante de Ciência da Computação, focado em Python, Java e análise de dados.
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">🚧 Projeto Atual</div>
-    <div class="card-text">
-      Sistema Python para extração e validação de NF-e com PostgreSQL.
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">🛠 Tecnologias</div>
-    <div class="card-text">
-      Python, Java, PostgreSQL, Git, Pandas.
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">📬 Contato</div>
-    <div class="card-text">
-      Email: blanco.amaral.20@gmail.com  
-      GitHub: joaoamaral20233
-    </div>
-  </div>
-
-</div>
+- **Curso / área:** Ciências da Computação  
+- **E-mail:** blanco.amaral.20@gmail.com  
+- **GitHub:** https://github.com/joaoamaral20233  
 
 ---
 
-# 📊 GitHub Stats
+## 🚧 Projeto atual
+
+Desenvolvimento de um sistema em Python para extração, validação e unificação de dados fiscais (NF-e), com integração ao banco de dados PostgreSQL.  
+O projeto tem como objetivo automatizar o processo de leitura de arquivos XML, validar informações tributárias e armazená-las de forma estruturada, criando a base para um ambiente de auditoria fiscal inteligente.
+
+---
+
+## 📂 Sobre este repositório
+
+Estudante de Ciência da Computação em Londrina, com perfil analítico e foco em eficiência, organização e atenção aos detalhes.  
+Minha trajetória profissional teve início na área administrativa e logística, onde desenvolvi habilidades em precisão, agilidade e conformidade de processos. Essa experiência contribuiu para uma visão detalhista e voltada à melhoria contínua, características que levo também para a área de tecnologia.  
+Atualmente, busco aprimorar meus conhecimentos em desenvolvimento e análise de dados, explorando novas ferramentas e linguagens de programação.
+
+---
+
+## 🛠️ Tecnologias que uso
+
+- **Linguagens de programação:** Python, (Java em processo)  
+- **Controle de versão:** Git, GitHub  
+- **Bancos de dados:** PostgreSQL  
+- **Ferramentas de análise de dados:** Excel, Pandas (Python)  
+
+---
+
+## 📬 Contato
+
+📧 Gmail — **blanco.amaral.20@gmail.com**
+
+---
+
+# 🌌 Versão DARK — Estatísticas + Animações
+
+---
+
+## 📊 GitHub Stats (Dark)
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaoamaral20233&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoamaral20233&layout=compact&theme=tokyonight&hide_border=true" />
+  
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=joaoamaral20233&show_icons=true&theme=tokyonight&hide_border=true" 
+  />
+
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoamaral20233&layout=compact&theme=tokyonight&hide_border=true" 
+  />
+
 </div>
 
 ---
 
-# 🐍 Snake Animation (Dark)
+## 🐍 Snake Animation (Dark)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joaoamaral20233/joaoamaral20233/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
-# 🧩 Badges
+## 🧩 Badges (Dark)
 
 <div align="center">
 
