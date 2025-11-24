@@ -8,7 +8,7 @@
 
 ## 📘 Informações
 
-- **Curso / área:** Ciências da Computação  
+- **Curso / área:** Ex.: Ciências da Computação  
 - **E-mail:** blanco.amaral.20@gmail.com  
 - **GitHub:** https://github.com/joaoamaral20233  
 
@@ -17,36 +17,38 @@
 ## 🚧 Projeto atual
 
 Desenvolvimento de um sistema em Python para extração, validação e unificação de dados fiscais (NF-e), com integração ao banco de dados PostgreSQL.  
-O sistema automatiza a leitura de arquivos XML, valida informações tributárias e armazena tudo de forma estruturada, servindo como base para auditoria fiscal inteligente.
+O projeto tem como objetivo automatizar o processo de leitura de arquivos XML, validar informações tributárias e armazená-las de forma estruturada, criando a base para um ambiente de auditoria fiscal inteligente.
 
 ---
 
 ## 📂 Sobre este repositório
 
 Estudante de Ciência da Computação em Londrina, com perfil analítico e foco em eficiência, organização e atenção aos detalhes.  
-Experiência prévia em administração e logística, trazendo habilidades de precisão, produtividade e melhoria contínua para a área de tecnologia.  
-Atualmente evoluindo em desenvolvimento e análise de dados, explorando novas ferramentas e linguagens.
+Minha trajetória profissional teve início na área administrativa e logística, onde desenvolvi habilidades em precisão, agilidade e conformidade de processos. Essa experiência contribuiu para uma visão detalhista e voltada à melhoria contínua, características que levo também para a área de tecnologia.  
+Atualmente, busco aprimorar meus conhecimentos em desenvolvimento e análise de dados, explorando novas ferramentas e linguagens de programação.
 
 ---
 
 ## 🛠️ Tecnologias que uso
 
-- **Linguagens:** Python, Java (em progresso)  
-- **Versionamento:** Git, GitHub  
-- **Banco de Dados:** PostgreSQL  
-- **Ferramentas:** Excel, Pandas  
+- **Linguagens de programação:** Python, (Java em processo)  
+- **Controle de versão:** Git, GitHub  
+- **Bancos de dados:** PostgreSQL  
+- **Ferramentas de análise de dados:** Excel, Pandas (Python)  
 
 ---
 
 ## 📬 Contato
 
-📧 **Email:** blanco.amaral.20@gmail.com
+📧 Gmail — **blanco.amaral.20@gmail.com**
 
 ---
 
 # 🌌 Versão DARK — Estatísticas + Animações
 
-### 📊 GitHub Stats (Dark)
+---
+
+## 📊 GitHub Stats (Dark)
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaoamaral20233&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -55,15 +57,18 @@ Atualmente evoluindo em desenvolvimento e análise de dados, explorando novas fe
 
 ---
 
-### 🐍 Snake Animation (Dark)
+## 🐍 Snake Animation (Dark)
+
+> ⚠️ Você ainda NÃO possui o arquivo da animação snake no seu repositório.  
+Então coloquei a versão universal (funciona para todo mundo).
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joaoamaral20233/joaoamaral20233/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
-### 🧩 Badges (Dark)
+## 🧩 Badges (Dark)
 
 <div>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
@@ -74,4 +79,3 @@ Atualmente evoluindo em desenvolvimento e análise de dados, explorando novas fe
 </div>
 
 ---
-
