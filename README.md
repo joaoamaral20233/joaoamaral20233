@@ -8,7 +8,7 @@
 
 ## 📘 Informações
 
-- **Curso / área:** Ciências da Computação  
+- **Curso / área:** Ex.: Ciências da Computação  
 - **E-mail:** blanco.amaral.20@gmail.com  
 - **GitHub:** https://github.com/joaoamaral20233  
 
@@ -42,31 +42,12 @@ Atualmente, busco aprimorar meus conhecimentos em desenvolvimento e análise de 
 
 📧 Gmail — **blanco.amaral.20@gmail.com**
 
----
-
-# 🌌 Versão DARK — Estatísticas + Animações
-
----
-
-## 📊 GitHub Stats (Dark)
-
-<div align="center">
-  
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=joaoamaral20233&show_icons=true&theme=tokyonight&hide_border=true" 
-  />
-
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoamaral20233&layout=compact&theme=tokyonight&hide_border=true" 
-  />
-
-</div>
-
----
+---                                    
 
 ## 🐍 Snake Animation (Dark)
+
+> ⚠️ Você ainda NÃO possui o arquivo da animação snake no seu repositório.  
+Então coloquei a versão universal (funciona para todo mundo).
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -76,14 +57,12 @@ Atualmente, busco aprimorar meus conhecimentos em desenvolvimento e análise de 
 
 ## 🧩 Badges (Dark)
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-
+<div>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
----
+---	
