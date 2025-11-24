@@ -42,7 +42,20 @@ Atualmente, busco aprimorar meus conhecimentos em desenvolvimento e análise de 
 
 📧 Gmail — **blanco.amaral.20@gmail.com**
 
----                                    
+---
+
+# 🌌 Versão DARK — Estatísticas + Animações
+
+---
+
+## 📊 GitHub Stats (Dark)                     
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaoamaral20233&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoamaral20233&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---                                            
 
 ## 🐍 Snake Animation (Dark)
 
