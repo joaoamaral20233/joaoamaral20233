@@ -8,7 +8,7 @@
 
 ## 📘 Informações
 
-- **Curso / área:** Ex.: Ciências da Computação  
+- **Curso / área:** Ciências da Computação  
 - **E-mail:** blanco.amaral.20@gmail.com  
 - **GitHub:** https://github.com/joaoamaral20233  
 
@@ -17,30 +17,30 @@
 ## 🚧 Projeto atual
 
 Desenvolvimento de um sistema em Python para extração, validação e unificação de dados fiscais (NF-e), com integração ao banco de dados PostgreSQL.  
-O projeto tem como objetivo automatizar o processo de leitura de arquivos XML, validar informações tributárias e armazená-las de forma estruturada, criando a base para um ambiente de auditoria fiscal inteligente.
+O objetivo é automatizar a leitura de arquivos XML, validar informações tributárias e armazená-las de forma estruturada, criando a base para um ambiente de auditoria fiscal inteligente.
 
 ---
 
 ## 📂 Sobre este repositório
 
-Estudante de Ciência da Computação em Londrina, com perfil analítico e foco em eficiência, organização e atenção aos detalhes.  
-Minha trajetória profissional teve início na área administrativa e logística, onde desenvolvi habilidades em precisão, agilidade e conformidade de processos. Essa experiência contribuiu para uma visão detalhista e voltada à melhoria contínua, características que levo também para a área de tecnologia.  
-Atualmente, busco aprimorar meus conhecimentos em desenvolvimento e análise de dados, explorando novas ferramentas e linguagens de programação.
+Estudante de Ciência da Computação em Londrina, com foco em eficiência, organização e atenção aos detalhes.  
+Experiência prévia na área administrativa e logística, desenvolvendo habilidades em precisão, conformidade de processos e visão analítica.  
+Atualmente, busco aprimorar meus conhecimentos em desenvolvimento backend e análise de dados com Python.
 
 ---
 
 ## 🛠️ Tecnologias que uso
 
-- **Linguagens de programação:** Python, (Java em processo)  
+- **Linguagens:** Python, Java (em andamento)  
 - **Controle de versão:** Git, GitHub  
-- **Bancos de dados:** PostgreSQL  
-- **Ferramentas de análise de dados:** Excel, Pandas (Python)  
+- **Banco de dados:** PostgreSQL  
+- **Análise de dados:** Pandas, Excel  
 
 ---
 
 ## 📬 Contato
 
-📧 Gmail — **blanco.amaral.20@gmail.com**
+📧 **Email:** blanco.amaral.20@gmail.com
 
 ---
 
@@ -48,19 +48,18 @@ Atualmente, busco aprimorar meus conhecimentos em desenvolvimento e análise de 
 
 ---
 
-## 📊 GitHub Stats (Dark)                     
+## 📊 GitHub Stats (Dark)
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaoamaral20233&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoamaral20233&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
----                                            
+---
 
-## 🐍 Snake Animation (Dark)
+## 🐍 Snake Animation
 
-> ⚠️ Você ainda NÃO possui o arquivo da animação snake no seu repositório.  
-Então coloquei a versão universal (funciona para todo mundo).
+> OBS: Esta é a versão universal (funciona para qualquer GitHub)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -68,9 +67,9 @@ Então coloquei a versão universal (funciona para todo mundo).
 
 ---
 
-## 🧩 Badges (Dark)
+## 🧩 Badges
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -78,4 +77,4 @@ Então coloquei a versão universal (funciona para todo mundo).
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
----	
+---
