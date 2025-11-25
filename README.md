@@ -56,11 +56,7 @@ Atualmente, busco aprimorar meus conhecimentos em desenvolvimento backend e aná
 ## 🐍 Snake Animation
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoamaral20233/joaoamaral20233/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoamaral20233/joaoamaral20233/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaoamaral20233/joaoamaral20233/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ## 🧩 Badges
@@ -76,7 +72,5 @@ Atualmente, busco aprimorar meus conhecimentos em desenvolvimento backend e aná
 ---
 
 <div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=joaoamaral20233&color=blue&style=flat)
-  
+  <img src="https://komarev.com/ghpvc/?username=joaoamaral20233&color=blue&style=flat" alt="Visitor Count" />
 </div>
