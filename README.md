@@ -1,38 +1,82 @@
-<h1 align="center">✨ Bem-vindo ao meu GitHub ✨</h1>
-<p align="center">Criatividade, tecnologia e evolução contínua.</p>
+# Joao Antonio Amaral Blanco
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F7F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+Evolução;Focado+em+Python+e+Java;Estudante+de+Ciência+da+Computação" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🔥 Skills
+## 📘 Informações
+
+- **Curso / área:** Ciências da Computação  
+- **E-mail:** blanco.amaral.20@gmail.com  
+- **GitHub:** https://github.com/joaoamaral20233  
+
+---
+
+## 🚧 Projeto atual
+
+Desenvolvimento de um sistema em Python para extração, validação e unificação de dados fiscais (NF-e), com integração ao banco de dados PostgreSQL.  
+O objetivo é automatizar a leitura de arquivos XML, validar informações tributárias e armazená-las de forma estruturada, criando a base para um ambiente de auditoria fiscal inteligente.
+
+---
+
+## 📂 Sobre este repositório
+
+Estudante de Ciência da Computação em Londrina, com foco em eficiência, organização e atenção aos detalhes.  
+Experiência prévia na área administrativa e logística, desenvolvendo habilidades em precisão, conformidade de processos e visão analítica.  
+Atualmente, busco aprimorar meus conhecimentos em desenvolvimento backend e análise de dados com Python.
+
+---
+
+## 🛠️ Tecnologias que uso
+
+- **Linguagens:** Python, Java (em andamento)  
+- **Controle de versão:** Git, GitHub  
+- **Banco de dados:** PostgreSQL  
+- **Análise de dados:** Pandas, Excel  
+
+---
+
+## 📬 Contato
+
+📧 **Email:** blanco.amaral.20@gmail.com
+
+---
+
+## 🌌 Estatísticas e Animações
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaoamaral20233&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoamaral20233&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" alt="Top Languages" />
+</div>
+
+## 🐍 Snake Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoamaral20233/joaoamaral20233/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoamaral20233/joaoamaral20233/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaoamaral20233/joaoamaral20233/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+## 🧩 Badges
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</div>
+
+---
+
 <div align="center">
   
-| Linguagens | Ferramentas | Frameworks |
-|-----------|-------------|------------|
-| Python 🐍 | Git 🔧 | Spring ☕ |
-| Java ☕ | GitHub 🐱 | FastAPI ⚡ |
-| SQL 🗄️ | VSCode 💡 | Flask 🔥 |
-
+  ![Visitor Count](https://komarev.com/ghpvc/?username=joaoamaral20233&color=blue&style=flat)
+  
 </div>
-
----
-
-## 📊 Estatísticas
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=joao&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🐍 Cobra com Contribuições
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-## 🌐 Redes
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-</div>
-
